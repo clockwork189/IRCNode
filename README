@@ -1,0 +1,5 @@
+This is a chat client that I am writing that uses JQuery + Socket.io
+
+The main focus of this client is to allow people to chat with no need to install any software. 
+
+More details to come upon further development.
